@@ -1,9 +1,9 @@
 
 const quizData = [
     {
-        question: "What was the first video game ever made?",
-        options: ["Pong", "Spacewar!", "Tetris", "Computer Space"],
-        answer: "Spacewar!"
+        question: "Who is the brand ambassador of 'Gucci'?",
+        options: ["Rihanna", "Beyonce", "Alia Bhatt", "Selena Gomez"],
+        answer: "Alia Bhatt"
         },
         {
         question: "Which company developed the first commercial antivirus software?",
